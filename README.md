@@ -1,6 +1,7 @@
 # Real-Time-Face-Recognition
 Real Time face Recognition using Python
-- The code uses haarcascade_frontalface_alt to learn about the same you can see to https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_alt.xml
+- The code uses haarcascade_frontalface_alt. To learn about the same you can see to 
+https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_alt.xml
 
 This is the trained library that uses opencv to recognize a face in the image
 
